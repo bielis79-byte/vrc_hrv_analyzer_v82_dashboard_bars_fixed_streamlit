@@ -2165,7 +2165,7 @@ def hrv_phase_summary_record_panels(record_data, records_results):
 # APP
 # ============================================================
 
-st.title("VRC / HRV RRi Analyzer Pro v8.2 · Kubios Mode")
+st.title("VRC / HRV RRi Analyzer Pro v8.2)
 st.caption("Segmentación tipo Kubios, HRV visual por fases, dominios/MSE, Poincaré, HVG e informe automático.")
 
 with st.sidebar:
